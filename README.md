@@ -7,8 +7,8 @@ I am a student of computer science in engineering at AGH University of science a
 - 🤔 I'm interested in desktop and web applications although have no problem learning other things.
 
 - 📫 How to reach me: 
-         mail: julia.oslizlo.16@gmail.com
-         linkedIn: https://www.linkedin.com/in/julia-o%C5%9Bliz%C5%82o-5786b425b/
+- mail: julia.oslizlo.16@gmail.com
+- linkedIn: https://www.linkedin.com/in/julia-o%C5%9Bliz%C5%82o-5786b425b/
   
 
 
