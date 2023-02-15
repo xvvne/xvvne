@@ -3,8 +3,8 @@
 I am a student of computer science in engineering at AGH University of science and technology in Cracow.
 
 - 🔭 I’m currently working on improving my programing skills and developing my portfolio.
-- 🌱 I’m currently learning Java and Spring framework.
-- 🤔 I'm interested in desktop and web applications although have no problem learning other things.
+- 🌱 I’m currently learning Java.
+- 🤔 I'm interested in mobile and web applications although have no problem learning other things.
 
 <details>
   <summary>Languages</summary>
@@ -20,7 +20,6 @@ I am a student of computer science in engineering at AGH University of science a
   <summary>Tools</summary>
   Visual Studio, 
   Qt Framework,
-  Spring Framework,
   Git,
   Linux,
   Github
