@@ -13,7 +13,11 @@ I am a student of computer science in engineering at AGH University of science a
   Java,
   Python,
   SQL,
-  Bash
+  Bash,
+  HTML,
+  CSS,
+  Bootstrap,
+  Javascript
   </details>
   
  <details>
