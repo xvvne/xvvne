@@ -16,7 +16,6 @@ I am a student of computer science in engineering at AGH University of science a
   Bash,
   HTML,
   CSS,
-  Bootstrap,
   Javascript
   </details>
   
