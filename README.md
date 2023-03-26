@@ -16,14 +16,15 @@ I am a student of computer science in engineering at AGH University of science a
   Bash,
   HTML,
   CSS,
+  PHP,
+  Bootstrap,
   Javascript
   </details>
   
  <details>
   <summary>Tools</summary>
   Visual Studio, 
-  Qt Framework,
-  Git,
+  Android studio,
   Linux,
   Github
   </details>
