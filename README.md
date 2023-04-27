@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I am a student of computer science in engineering at AGH University of science and technology in Cracow.
+I am a student of computer science in engineering at AGH in Cracow.
 
 - 🔭 I’m currently working on improving my programing skills and developing my portfolio.
-- 🌱 I’m currently learning Java.
 - 🤔 I'm interested in mobile and web applications although have no problem learning other things.
 
 <details>
@@ -26,7 +25,7 @@ I am a student of computer science in engineering at AGH University of science a
   Visual Studio, 
   Android studio,
   Linux,
-  Github
+  Git
   </details>
   
 - 📫 How to reach me: 
