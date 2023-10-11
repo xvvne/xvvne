@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am a student of computer science in engineering at AGH in Cracow.
+Student of computer science in engineering at AGH in Cracow.
 
 - 🔭 I’m currently working on improving my programing and administration skills as well as developing my portfolio.
-- 🤔 I'm interested in mobile and web applications although have no problem learning other things.
+
 
 <details>
   <summary>Languages</summary>
