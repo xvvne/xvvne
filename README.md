@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 Student of computer science in engineering at AGH in Cracow.
 
