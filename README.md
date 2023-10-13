@@ -1,6 +1,6 @@
 ### 
 
-SRE Intern and student of computer science in engineering at AGH in Cracow.
+SRE Intern and CS student at AGH in Cracow.
 
 - 🔭 I’m currently working on improving my programing and administration skills as well as developing my portfolio.
 
@@ -21,7 +21,6 @@ SRE Intern and student of computer science in engineering at AGH in Cracow.
   
  <details>
   <summary>Tools</summary>
-  Visual Studio, 
   Android studio,
   Linux,
   Git
