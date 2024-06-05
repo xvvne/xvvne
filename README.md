@@ -1,29 +1,34 @@
 ### 
 
-SRE Intern and CS student at AGH in Cracow.
+SRE Intern and CS student at AGH in Cracow interested in cloud technologies and automation.
 
-- 🔭 I’m currently working on improving my programing and administration skills as well as developing my portfolio.
+- 🔭 I’m currently working on improving my programming and administration skills as well as developing my portfolio.
 
 
 <details>
   <summary>Languages</summary>
-  C++,
-  C,
-  Java,
   Python,
-  SQL,
+  Go,
+  Java,
   Bash,
-  HTML,
-  CSS,
-  PHP,
-  Bootstrap,
+  SQL,
+  Powershell,
+  C++
   </details>
   
  <details>
   <summary>Tools</summary>
-  Android studio,
+  AWS,
+  Azure,
   Linux,
-  Git
+  Docker,
+  Kubernetes,
+  AppDynamics,
+  Splunk,
+  Jenkins,
+  Git,
+  PostgreSQL,
+  MySQL
   </details>
   
 - 📫 How to reach me: 
